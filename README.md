@@ -64,3 +64,14 @@ The following queries are included:
    ```sql
    CREATE DATABASE ecommerce;
    USE ecommerce;
+## Reflection questions 
+   *How do primary and foreign keys help maintain data integrity?
+   How the data is managed and stored
+**What insights can be gained by joining multiple tables?
+   How the data is realated or can be used
+**How can aggregate functions summarize data?
+   Pulling form 7 powerdul data pathways a once
+What types of analyses are enabled by date functions?
+   Anyzaing the data from 7 diffrent power data streams 
+**How might you extend this database for additional e-commerce features?
+Maybe do a survey to what features the customers would want to make shoping easier.
