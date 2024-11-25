@@ -1,4 +1,19 @@
-"scripts": {
-  "start": "node app.mjs",
-  "dev": "nodemon app.mjs"
+{
+  "name": "sql-work",
+  "version": "1.0.0",
+  "description": "This project implements a MySQL database for an e-commerce platform. It includes tables for customers, products, orders, and order details, along with sample data and queries for common operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.4",
+    "sequelize": "^6.37.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
