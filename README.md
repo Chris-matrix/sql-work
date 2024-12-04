@@ -77,4 +77,5 @@ Date functions enable various time-based analyses, allowing users to examine tre
 
 ### 5. How might you extend this database for additional e-commerce features?
 To better cater to customer needs and enhance their shopping experience, additional features can be integrated into the database based on customer feedback. Conducting surveys to gather insights on desired features—such as wish lists, product reviews, personalized recommendations, or improved shipping options—can inform further database expansion and improve user satisfaction.
+![image](https://github.com/user-attachments/assets/def71d09-88d2-4d13-8389-6ba9d6d59422)
 
